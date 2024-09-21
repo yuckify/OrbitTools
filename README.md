@@ -8,12 +8,11 @@ changes such as porting to linux.
 
 # Build
 ## Linux
-cd OrbitTools
-mkdir build
-cd build
-cmake .. -DCMAKE_BUILD_TYPE=Release
-make -j
-sudo make install
-echo "/usr/local/lib" | sudo tee /etc/ld.so.conf.d/usrlocal.conf
-sudo ldconfig
+
+mkdir build; cd build<br/>
+cmake .. -DCMAKE_BUILD_TYPE=Release<br/>
+make -j<br/>
+sudo make install<br/>
+echo "/usr/local/lib" | sudo tee /etc/ld.so.conf.d/usrlocal.conf<br/>
+sudo ldconfig<br/>
 
