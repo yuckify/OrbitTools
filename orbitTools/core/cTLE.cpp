@@ -7,7 +7,7 @@
 //
 #include "stdafx.h"
 
-#include "cTle.h"
+#include "cTLE.h"
 
 namespace Zeptomoby 
 {

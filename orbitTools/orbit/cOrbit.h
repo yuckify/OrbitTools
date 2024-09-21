@@ -12,7 +12,7 @@
 //
 #pragma once
 
-#include "cTle.h"
+#include "cTLE.h"
 #include "cJulian.h"
 #include "cEci.h"
 #include "cVector.h"

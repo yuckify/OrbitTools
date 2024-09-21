@@ -5,7 +5,9 @@
 // Version 06/2014
 //
 #include <stdio.h>
+#ifdef _WIN32
 #include <tchar.h>
+#endif
 
 #include <assert.h>
 

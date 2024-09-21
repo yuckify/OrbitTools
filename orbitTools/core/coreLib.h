@@ -15,7 +15,7 @@ using namespace std;
 #include "cEci.h"
 #include "coord.h"
 #include "cSite.h"
-#include "cTle.h"
+#include "cTLE.h"
 #include "cVector.h"
 #include "exceptions.h"
 

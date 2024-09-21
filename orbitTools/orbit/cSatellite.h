@@ -7,7 +7,7 @@
 #pragma once
 
 #include <string>
-#include "cTle.h"
+#include "cTLE.h"
 #include "cEci.h"
 #include "cOrbit.h"
 
